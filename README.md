@@ -9,14 +9,14 @@ The chatbot operates entirely through a terminal interface and uses a LangGraph 
 
 ## Team
 
-Team Name: "Ai For Good"
+Team Name: "AI For Good"
 
 Members:-
 ```
-- Rachamalla Sai Arnav Goud - 25881A05DW -> Team Lead
-- Mohammed Faroz Khan - 25881A05CQ
-- Vishvas Polepaka - 25881A05EN
-- Kunduru Bharath Reddy - 25881A05CL
+- Rachamalla Sai Arnav Goud - 25881A05DW  ---> Team Lead
+- Mohammed Faroz Khan       - 25881A05CQ
+- Vishvas Polepaka          - 25881A05EN
+- Kunduru Bharath Reddy     - 25881A05CL
 ```
 ---
 ## Features
@@ -43,12 +43,12 @@ Create a table.
 Technology	      Purpose
 ------------------------------------------------
 Python	          Backend
-LangChain	        RAG Pipeline
-LangGraph	        Workflow
-ChromaDB	        Vector Database
+LangChain	  RAG Pipeline
+LangGraph	  Workflow
+ChromaDB	  Vector Database
 OpenAI	          LLM + Embeddings
 Tavily	          Live Search
-Semantic          Scholar	Academic Papers
+Semantic          Scholar -Academic Papers
 dotenv	          Environment Variables
 ```
 ---
