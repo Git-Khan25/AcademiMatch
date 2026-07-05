@@ -4,18 +4,19 @@ An AI-powered Research Matching Chatbot built using LangGraph, LangChain, Chroma
 AcademiMatch-CLI is an intelligent research matching assistant that helps students discover faculty members aligned with their research interests and enables professors to identify collaboration opportunities using Retrieval-Augmented Generation (RAG), vector search, and live academic trend analysis.
 
 The chatbot operates entirely through a terminal interface and uses a LangGraph workflow to orchestrate retrieval, recommendation, project suggestion, collaboration analysis, and human-in-the-loop email approval.
+
 ---
 
 ## Team
 
-Team Name: <Ai For Good>
+Team Name: "Ai For Good"
 
 Members:-
 ```
-- Rachamalla Sai Arnav Goud - Team Lead
-- Mohammed Faroz Khan 
-- Vishvas Polepaka
-- Kunduru Bharath Reddy
+- Rachamalla Sai Arnav Goud - 25881A05DW -> Team Lead
+- Mohammed Faroz Khan - 25881A05CQ
+- Vishvas Polepaka - 25881A05EN
+- Kunduru Bharath Reddy - 25881A05CL
 ```
 ---
 ## Features
