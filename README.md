@@ -122,6 +122,25 @@ research-chatbot/
 ## Installation
 
 ```
+Create the Chroma Database
+
+The `chroma_db/` folder is intentionally not included in this repository because it is generated locally.
+
+After cloning the repository, run:
+
+python ingest.py
+
+(or the appropriate indexing script)
+
+This will:
+1. Read all research papers.
+2. Generate embeddings.
+3. Create the `chroma_db/` directory automatically.
+
+After the database has been created, start the application:
+
+python main.py
+
 git clone <repository>
 
 cd Research_matching_agent-main
