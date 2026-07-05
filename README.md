@@ -43,9 +43,9 @@ Create a table.
 Technology	      Purpose
 ------------------------------------------------
 Python	          Backend
-LangChain	  RAG Pipeline
-LangGraph	  Workflow
-ChromaDB	  Vector Database
+LangChain	      RAG Pipeline
+LangGraph	      Workflow
+ChromaDB	      Vector Database
 OpenAI	          LLM + Embeddings
 Tavily	          Live Search
 Semantic          Scholar -Academic Papers
