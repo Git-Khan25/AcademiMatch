@@ -13,7 +13,7 @@ Team Name: "AI For Good"
 
 Members:-
 ```
-- Rachamalla Sai Arnav Goud   ---> Team Lead
+- Rachamalla Sai Arnav Goud   
 - Mohammed Faroz Khan      
 - Vishvas Polepaka          
 - Kunduru Bharath Reddy     
