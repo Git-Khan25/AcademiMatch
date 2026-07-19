@@ -242,13 +242,4 @@ YES
 
 [SIMULATED] Email Sent
 ```
----
-## Future Improvements
-- Web interface
-- PDF paper parsing
-- Gmail API integration
-- Citation graph visualization
-- Multi-university faculty database
-- User authentication
-- Research proposal generation
----
+
