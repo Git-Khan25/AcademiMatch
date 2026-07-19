@@ -1,4 +1,4 @@
-# AcademiMatch-CLI
+# AcademiMatch
 
 An AI-powered Research Matching Chatbot built using LangGraph, LangChain, ChromaDB, OpenAI, Tavily, and Semantic Scholar.
 AcademiMatch-CLI is an intelligent research matching assistant that helps students discover faculty members aligned with their research interests and enables professors to identify collaboration opportunities using Retrieval-Augmented Generation (RAG), vector search, and live academic trend analysis.
